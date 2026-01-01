@@ -25,7 +25,4 @@ and basic data persistence.
 ## How to Run
 1. Make sure Python 3 is installed
 2. Run the main script:
-3. ```bash
-python main.py
-```bash
 python main.py
